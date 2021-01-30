@@ -7,9 +7,10 @@
     color: rgb(255, 255, 255);
     font-size: 28px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 
-.fa {
+.fab {
     padding: 20px;
     font-size: 30px;
     width: 30px;
@@ -17,7 +18,7 @@
     text-decoration: none;
     margin: 5px 2px;
     border-radius: 50%;
-
+    transition: all .5s ease-in-out;
     background: #B5EDFC;
     color:#272C3A;
 }
@@ -33,4 +34,8 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #464646;
+}
+
+#socialLinks {
+    margin-top: 28px;
 }
