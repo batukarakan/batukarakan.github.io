@@ -7,7 +7,6 @@
     color: rgb(255, 255, 255);
     font-size: 28px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
 }
 
 .fab {
@@ -23,8 +22,8 @@
     color:#272C3A;
 }
 
-.fa:hover {
-    opacity: 0.7;
+.fab:hover {
+    opacity: 0.5;
 }
 
 #backgroundBody {
@@ -38,5 +37,4 @@
 
 #socialLinks {
     margin-top: 28px;
-    
 }
